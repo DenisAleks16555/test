@@ -1,0 +1,57 @@
+    1  ls
+    2  pwd
+    3  ls
+    4  ls -a
+    5  ls -a
+    6  cd Desktop/
+    7  ls
+    8  cd Python\!\!\!/
+    9  ls
+   10  cd ..
+   11  cd Python\!\!\!/
+   12  ls
+   13  cd May
+   14  ls 
+   15  mkdir 25.05
+   16  ls
+   17  cd 25.05/
+   18  echo "Hello world"
+   19  echo "Hello" > text.txt
+   20  ls
+   21  cat text.txt
+   22  cd ..
+   23  cd 18.05.2025/
+   24  pwd
+   25  ls
+   26  cd resume_service/
+   27  ls
+   28  cat resume_data.txt 
+   29  cd ../../25.05
+   30  ls
+   31  git init
+   32  git status
+   33  git add text.txt
+   34  git status
+   35  git commit -m "первый коммит"
+   36   git config --global user.email "aleks16555@mail.ru"
+   37  git config --global user.name "Your Name"
+   38  [200~git config --global user.name "Aleks16555"
+   39  git commit -m "Hello"
+   40   git config --global user.email "aleks16555@mail.ru"
+   41   git config --global user.name "Aleks16555"
+   42  git status
+   43   git commit -m "Hello"
+   44  git status
+   45  ls
+   46  pwd
+   47  cd Python
+   48  cd Desktop/Python\!\!\!/May/25.05/
+   49  ls
+   50  git status
+   51  echo "Второй файл" > 2.txt
+   52  ls
+   53  cat 2.txt
+   54  git status
+   55  git add 2.txt 
+   56  history
+   57  history > history.txt
